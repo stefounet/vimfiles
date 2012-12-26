@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/stephanerios'
+let g:netrw_dirhist_2='/Users/stephanerios/Sites'
+let g:netrw_dirhist_3='/Users/stephanerios/Sites/FasterizeEngine'
+let g:netrw_dirhist_4='/Users/stephanerios/Sites/FasterizeEngine/common'
